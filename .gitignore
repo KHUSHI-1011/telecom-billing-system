@@ -1,0 +1,23 @@
+# Compiled class files
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+*~
+
+# Build
+out/
+target/
+build/
+
+# Logs and config with secrets
+*.log
+config.properties
+
+# OS
+.DS_Store
+Thumbs.db
